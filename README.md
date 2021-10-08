@@ -15,7 +15,10 @@
       REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v Wallpaper /t REG_SZ /d "C:\Wallpaper\fondo.jpg"
 
     
-
+## Indicar a windows ejecutar un programa al inicio y apagado de windows
+   programa GPEDIT
       
+      ![image](https://user-images.githubusercontent.com/83789483/136620368-0521f718-1f11-4ca0-bfcd-dc3ec112d963.png)
+
   
  
