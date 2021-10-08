@@ -16,9 +16,10 @@
 
     
 ## Indicar a windows ejecutar un programa al inicio y apagado de windows
-   programa GPEDIT
+   programa GPEDIT -->> Configuracion de equipo -->> Configuracion de Windows --> Scripts --> INICIO O APAGADO
       
-      ![image](https://user-images.githubusercontent.com/83789483/136620368-0521f718-1f11-4ca0-bfcd-dc3ec112d963.png)
+      
 
   
  
+![2021-10-08_17-20-20](https://user-images.githubusercontent.com/83789483/136620604-65613ec5-a956-4527-b713-0f81740a943d.png)
